@@ -4,6 +4,8 @@ public class Marca {
 
 	private int id;
 	private String nombre;
+	
+	
 	public int getId() {
 		return id;
 	}
